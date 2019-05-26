@@ -1,0 +1,6 @@
+Login user -> localhost/votee (masukkan nim mahasiswa)
+-bagi mahasiswa yang sudah voting tidak bisa login kembali karena login hanya dapat dilakukan 1 kali voting
+
+
+login admin -> localhost/votee/dashboard
+-password admin (admin)
