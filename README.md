@@ -1,2 +1,2 @@
-# polling-osis-ci
-Polling osis online berbasis CI
+# Polling
+Kelompok 4
